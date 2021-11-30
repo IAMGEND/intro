@@ -1,2 +1,10 @@
 # intro
-For the reason
+Dashboard
+{
+
+Main int ;()
+         
+        Const ~$dpkg %am
+        
+Return;0  
+}   
