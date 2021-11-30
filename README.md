@@ -1,2 +1,10 @@
 # intro
-For the reason
+
+{
+
+Main int ;()
+         
+        Const ~$dpkg %am
+        
+Return;0  
+}   
