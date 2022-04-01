@@ -1,5 +1,4 @@
-#  من<!--[ظ['INTRO']]-->
-ظ<!--[#['pagar']]-->                
+# من<!--[#[$prefix]ظ!]-->                
 
 
 
@@ -7,5 +6,5 @@
 
 
 
-## Main <!--(expression(F)H)-->
+## Main  <!--(expression(F)H)-->
    
